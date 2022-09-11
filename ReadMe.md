@@ -8,13 +8,11 @@
 
 ### open source projects
 
-1. 
-
    [![cppServer](https://github-readme-stats.vercel.app/api/pin?username=GoblinsWang&repo=cppServer&theme=radical)](https://github.com/GoblinsWang/cppServer.git)
 
     > **Note:** Currently, this project includes tech comm resources in both English and Chinese.
 ### blog
-2. share some learning summaries
+- share some learning summaries
     - [CSDN：不知所措的渣渣辉](https://blog.csdn.net/qq_41950508)
 
 ### Get in touch
