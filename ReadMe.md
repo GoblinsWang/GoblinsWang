@@ -1,6 +1,6 @@
  ### Hi there 👋
  
- 🤓 I'm Wangzhiming Dats, a graduate student from UESTC.
+ 🤓 I'm Dats, a graduate student from UESTC.
  
  ![Wangzhiming's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoblinsWang&show_icons=true&theme=tokyonight)
 
